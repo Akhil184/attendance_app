@@ -8,11 +8,13 @@
 
 
 ![WhatsApp Image 2023-09-25 at 11 11 20 PM](https://github.com/Akhil184/attendance_app/assets/62253501/52380c6e-0610-44c6-b729-4d9d69a4e357)
- Getting Started
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2023-09-25 at 11 11 20 PM (1)](https://github.com/Akhil184/attendance_app/assets/62253501/672f2cd2-0ce9-4bd9-a500-9d53c4dd0d1d)
 
-A few resources to get you started if this is your first Flutter project:
+![WhatsApp Image 2023-09-25 at 11 11 19 PM](https://github.com/Akhil184/attendance_app/assets/62253501/6e9871d7-11f2-4c6f-a0b7-ce6099451be8)
+
+ 
+![WhatsApp Image 2023-09-25 at 11 11 19 PM (1)](https://github.com/Akhil184/attendance_app/assets/62253501/5dda6c98-c744-4eb3-933d-e89b4a4fd19a)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
