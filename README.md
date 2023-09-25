@@ -20,6 +20,8 @@
 
 ![WhatsApp Image 2023-09-25 at 11 10 56 PM](https://github.com/Akhil184/attendance_app/assets/62253501/2707c919-811a-4dd3-9f2b-060a2bd30a70)
 
+![WhatsApp Image 2023-09-25 at 11 10 56 PM (1)](https://github.com/Akhil184/attendance_app/assets/62253501/f0b70126-6362-4373-8f21-5e9d01937b05)
+
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
