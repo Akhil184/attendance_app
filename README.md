@@ -1,6 +1,7 @@
 # project
 
 A new Flutter project.
+![WhatsApp Image 2023-09-25 at 11 11 23 PM](https://github.com/Akhil184/attendance_app/assets/62253501/1b04df20-04bc-4faa-8052-81a29b34b611)
 
 ## Getting Started
 
