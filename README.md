@@ -41,6 +41,10 @@
 ![WhatsApp Image 2023-09-25 at 11 10 58 PM](https://github.com/Akhil184/attendance_app/assets/62253501/f0ab54ca-8bbf-43ab-95f3-99b9432fdc5f)
 
 
+![WhatsApp Image 2023-09-25 at 11 10 57 PM (1)](https://github.com/Akhil184/attendance_app/assets/62253501/ff148a7c-f6ef-49b5-be56-23c08d8aba3f)
+
+
+
 
 
 
